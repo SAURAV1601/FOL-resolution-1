@@ -1,0 +1,6 @@
+1
+B(John, Mike)
+3
+~A(John)
+~A(Mike)
+A(x) | A(y) | B(x, y)
