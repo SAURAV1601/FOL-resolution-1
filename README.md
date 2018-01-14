@@ -1,2 +1,1 @@
-# FOL-resolution
-First Order Logic Resolution
+# First Order Logic Resolution
